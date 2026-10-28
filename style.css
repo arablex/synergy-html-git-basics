@@ -1,2 +1,4 @@
 body { font-family: Arial, sans-serif; margin: 0; padding: 20px; background: #f4f6fb; color: #222; }
 header { border-bottom: 2px solid #3b6ef5; margin-bottom: 20px; }
+img { border-radius: 8px; }
+.gallery { display: flex; gap: 16px; }
