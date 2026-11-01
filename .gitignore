@@ -1,0 +1,9 @@
+# Служебные файлы macOS и редакторов
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Логи и временные файлы
+*.log
+.tmp/
